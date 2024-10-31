@@ -156,6 +156,7 @@ cython_debug/
 
 # Ignore virtual environment
 venv/
+.artifacts
 
 
 # PyCharm
