@@ -17,8 +17,7 @@ To run this project, ensure you have Python 3.x installed. Follow these steps to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-exam-performance-predictor.git
-   cd student-exam-performance-predictor
+   git clone https://github.com/DanielSamsonLawrence/mlproject.git
 2. Create and activate a virtual environment (optional but recommended):
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate` 
